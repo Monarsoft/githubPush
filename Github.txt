@@ -1,0 +1,26 @@
+仓库：（Repository）
+收藏：（Star）
+克隆：（Fork）
+发送请求：(Pull request)
+关注：（Watch）
+事物卡片：（Issue）
+
+初始设置:
+mkdir text
+git config --global user.name "monarsoft"
+git config --global user.email 'monarsoft@outlook.com'
+git init
+
+暂存区
+touch aaa.ph
+git status
+git add aaa.ph
+git commit -m '描述'
+
+推送到远程仓库
+git clone <https://github.com/Monarsoft/githubPush.git> //USE http
+git push
+
+https://monarsoft.github.io
+
+
